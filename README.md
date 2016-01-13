@@ -1,3 +1,2 @@
 # test-test
-My test repo
-Hello world
+My test repo. This is some text. 
